@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Django and reinforcement learning**
 
-- 👨‍💻 A interesting project [Housework assignment](https://github.com/andre-tavas/alocacao_tarefas)
+- 👨‍💻 An interesting project [Housework assignment](https://github.com/andre-tavas/alocacao_tarefas)
 
 - 📫 How to reach me **andretaguerra@gmail.com**
 
