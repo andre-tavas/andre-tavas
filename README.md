@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm André</h1>
-<h3 align="center">A curious and creative Computer Science and Industrial Engineering student.</h3
+<h3 align="center">A curious and creative Computer Science and Industrial Engineering student.</h3>
 
 - 👨‍💻 Some interesting projects [a Travelling Salesman Game](https://github.com/andre-tavas/optimization_games), [Housework assignment](https://github.com/andre-tavas/alocacao_tarefas)
 
